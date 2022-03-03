@@ -36,6 +36,7 @@
     "bcryptjs": "^2.4.3",
     "eslint-config-prettier": "^8.5.0",
     "graphql": "^15.8.0",
+    "graphql-scalars": "^1.15.0",
     "jsonwebtoken": "^8.5.1",
     "nexus": "^1.2.0",
     "prettier": "^2.5.1"
